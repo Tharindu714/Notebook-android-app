@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My NoteBook</string>
+    <string name="my_info">Information</string>
+<!--    images-->
+    <string name="imageIcon">Notepad.png</string>
+    <string name="me">tharindu.png</string>
+    <string name="graphic">dcgraphics.png</string>
+    <string name="software">software.png</string>
+    <string name="call">call.png</string>
+    <string name="email">email.png</string>
+    <string name="web">web.png</string>
+    <string name="fb">facebook.png</string>
+    <string name="messenger">messenger.png</string>
+    <string name="whatsapp">whatsapp.png</string>
+<!--    Buttons-->
+    <string name="button1">Create a new note</string>
+    <string name="button2">Save your Note</string>
+<!--    Texts-->
+    <string name="text1">Title</string>
+    <string name="text2">Content</string>
+    <string name="text3">2025–01-01 13:02:30</string>
+    <string name="text4">Developed By Delta Codex Software Solutions</string>
+<!--    hints-->
+    <string name="hint1">Enter your note title here</string>
+    <string name="hint2">What\'s on your mind today.......</string>
+<!--    about-->
+    <string name="about1">This Note App is developed to save your daily notes easily.
+        So start schedule your daily works and note them on notebook app</string>
+    <string name="about2">Developed By:- H.P.K Tharindu Chanaka</string>
+    <string name="about3">Founder &amp; Senior Software Engineer of Delta Codex Software Solution</string>
+    <string name="about4">Founder &amp; Graphic Designer of Delta Codex Graphics</string>
+    <string name="about5">Contact Me for any inquiries</string>
+
+</resources>

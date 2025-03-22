@@ -1,0 +1,5 @@
+        holder.containerView.setOnLongClickListener(view -> {
+            Log.i("MyNoteBookLog","On Long Click");
+
+            return true;
+        });
